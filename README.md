@@ -1,8 +1,8 @@
-# Meus estudos iniciais em typescript
+# Meus estudos iniciais em TypeScript
 
 Bom  para você testar os exemplos de cada conteúdo faça o seguinte:
 
-### primeiro instale o typescript 
+### primeiro instale o TypeScript 
 
 Globalmente via npm ou yarn:
 
